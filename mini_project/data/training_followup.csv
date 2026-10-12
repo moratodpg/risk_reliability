@@ -1,0 +1,13 @@
+pair_id,trained_to_baseline_ratio,synthetic
+pair_01,0.64896,True
+pair_02,0.86349,True
+pair_03,0.87701,True
+pair_04,0.81208,True
+pair_05,0.99201,True
+pair_06,0.80847,True
+pair_07,0.78835,True
+pair_08,1.06782,True
+pair_09,0.64363,True
+pair_10,0.83692,True
+pair_11,0.70689,True
+pair_12,0.86962,True

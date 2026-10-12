@@ -1,2 +1,3 @@
 figures*
 .DS*
+__pycache__/
